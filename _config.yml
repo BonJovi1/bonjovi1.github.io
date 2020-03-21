@@ -6,7 +6,7 @@ email: abhinav.g@students.iiit.ac.in
 description: > # this means to ignore newlines until "url:"
   Undergraduate Researcher at IIIT, Hyderabad. Website based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  May the Force be with you. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>. Thanks to the <a href="https://github.com/alshedivat/al-folio">al-folio</a> for the awesome theme.
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -43,8 +43,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Abhinav Gupta
-blog_description: Penning it down
+blog_name: Sometimes, I write. 
+blog_description: Music | Cinema | Climate | Philosophy
 
 # Pagination
 paginate: 8
