@@ -2,7 +2,7 @@
 layout: post
 title:  The Usual Suspects
 date:   2020-03-21 16:23:00
-description: Why I love this classic neo-noir film! 
+description: Why I love this classic neo-noir film.
 ---
 
 <div class="img_row">

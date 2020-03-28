@@ -13,7 +13,7 @@ Apart from Computer Science, I have a huge fondess for music. Music has been, an
 I have been learning how to drum since I was in the 6th grade. That was the time when Green Day's '21st Century Breakdown' record was all over the rock radio stations. I remember listening to Trè Cool's drums on that and that was when I knew that I wanted to be a drummer! 
 
 <div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/drums.png">
+    <center> <img width="480" height="320" src="{{ site.baseurl }}/assets/img/drums.JPG"> </center>
 </div>
 
 <br/>
@@ -32,14 +32,4 @@ I am a huge Star Wars fan, and a staunch believer in the Force, the invisible en
 ### Philosophy
 
 I am also very interested in Philosophy and I often like to muse about life and death. ‘The study of knowledge’ as it truly is, I love to contemplate on classic philosophical problems such as, ‘who are we’ and ‘is there really any purpose to our lives’ etc. Most of my philosophies are inspired by David Hume, one of the greatest thinkers of the 17th century, and Prof Madhava, whose teachings are famously dubbed as ‘Madhavism’. 
-
-
-
-
-
-
-
-
-
-
  
