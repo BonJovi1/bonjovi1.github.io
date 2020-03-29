@@ -18,7 +18,7 @@ This one has always been my favourite course at IIIT, as it is the most fundamen
 ### Design and Analysis of Software Systems
 #### Spring 2020
 
-I had the opportunity to be a teaching assistant for this course under [Prof. Ramesh Loganthan](https://www.linkedin.com/in/rameshl/?originalSubdomain=in). I was responsible for setting and evaluating assignments and teaching how to build web applications, coding well in Python and JavaScript and a bunch of software engineering principles.   
+I had the opportunity to be a teaching assistant for this course under [Prof. Ramesh Loganathan](https://www.linkedin.com/in/rameshl/?originalSubdomain=in). I was responsible for setting and evaluating assignments and teaching how to build web applications, coding well in Python and JavaScript and a bunch of software engineering principles.   
 
 This is the most famous software engineering course offered at IIIT, Hyderabad, where one learns good web development skills and the art of building web and mobile applications. But the course isn't just famous for its amazing assignments, but also for its project component. Students form teams and have to work for real life clients as part of their projects. The clients usually include the thousands of start-ups in and around Hyderabad. Students work for these clients for 4 months, earning some valuable industry experience and exposure. 
 
