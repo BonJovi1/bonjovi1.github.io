@@ -1,9 +1,9 @@
-# Abhinav Gupta
+# bonjovi1.github.io
 
-A cliché academia themed website. \
+A cliché academia themed website, hosted here: [bonjovi1.github.io]() \
 Built using al-folio, a very simple and clean [Jekyll](https://jekyllrb.com/) theme for academics, published by []() under the MIT license. 
 
-The following is the readme from the al-folio, and explains how to use the theme features. 
+The following is the readme from al-folio, and explains how to use the theme features. 
 
 ## Getting started
 
