@@ -7,8 +7,7 @@ description: Undergraduate Researcher
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    
+  address: > 
 
 news: false
 social: true
