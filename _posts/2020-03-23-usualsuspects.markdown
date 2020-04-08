@@ -38,15 +38,14 @@ The introduction scene is my second favourite part of the movie. It is a beautif
 Story is one thing, but telling it the right way is equally important. The story could be pretty straightforward, but can be twisted if told in a non-linear narrative (hello Quentin Tarantino). I personally love non-linear narratives because they can make the plots really complex and captivating. Bryan Singer, howeve, decides to portray the plot in the classic way: using narrations and flashbacks (which are linear). The entire movie, Verbal Kint is being interrogated by the police, explaining the backstory to how he and the other criminals landed on that ship. Because of the introduction scene being set up so well, the viewer's inquisitiveness keeps increasing as Verbal Kint tells the poilce of how it all transpired. 
 
 #### The Keyser Söze backstory 
-> Well I believe in God, and the only thing that scares me is Keyser Söze.
 
 <div class="img_row">
     <img class="col three" src="{{ site.baseurl }}/assets/img/usual4.jpg">
 </div>
 <br>
+Keaton always said, "I don't believe in God, but I'm afraid of him." Well I believe in God, and the only thing that scares me is Keyser Söze.
 
-Kevin Space is God. Period. When the police starts to ask him about Keyser Söze is, his 'verbal' character goes into his backstory. It's THE BEST scene of the movie. So far, the viewers just think that Keyser Söze is fake and that the criminals are making him up, but when Spacey's character tells the police about him and how he killed his own family to become who he is today, it just sends cold shivers down the spine. As Kobayashi says:
-> One Cannot Be Betrayed If One Has No People.
+Kevin Space is God. Period. When the police starts to ask him about Keyser Söze is, his 'verbal' character goes into his backstory. It's THE BEST scene of the movie. So far, the viewers just think that Keyser Söze is fake and that the criminals are making him up, but when Spacey's character tells the police about him and how he killed his own family to become who he is today, it just sends cold shivers down the spine. As Kobayashi says, **"One Cannot Be Betrayed If One Has No People"**.
 
 I could watch this scene again and again. 
 
@@ -62,8 +61,7 @@ Verbal Kint, with his name cleared of all charges, now walks back to Kobayashi's
 </div>
 <br>
 
-> And just like that...he's gone. 
-
+And just like that...he's gone. 
 Screen fades to black. 
 
 Even if you saw that coming, hearing Keyser Soze's words as the screen blacked out would've still blown your mind! 

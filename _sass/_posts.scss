@@ -31,12 +31,14 @@
     }
     h3 {
         font-size: 30px;
+        color: $blue
         // @include media-query($on-laptop) {
         //     font-size: 22px;
         // }
     }
     h4 {
         font-size: 20px;
+        color: $mid-gray
         // @include media-query($on-laptop) {
         //     font-size: 18px;
         // }

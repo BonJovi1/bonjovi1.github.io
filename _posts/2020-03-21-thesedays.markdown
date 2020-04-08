@@ -29,4 +29,4 @@ But there were still some people out there who hadn’t given up just yet. After
 
 Bon Jovi weren’t just a bunch of long haired teenagers trying to produce catchy rock music in the ‘80s. Their hair was shorter (comparatively) and the entire album was more mature - both lyrics and sound.
 
-
+Work in Progress. 

@@ -4,7 +4,7 @@
 name: Abhinav Gupta
 email: abhinav.g@students.iiit.ac.in
 description: > # this means to ignore newlines until "url:"
-  Undergraduate Researcher at IIIT, Hyderabad. Website based on [*folio](https://github.com/bogoli/-folio) design.
+  Undergraduate Researcher at IIIT, Hyderabad. 
 footer_text: >
   May the Force be with you. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>. Thanks to <a href="https://github.com/alshedivat/al-folio">al-folio</a> for the awesome theme.
 
@@ -43,7 +43,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Sometimes, I write. 
+blog_name: Scribbles 
 blog_description: Music | Cinema | Climate | Philosophy
 
 # Pagination

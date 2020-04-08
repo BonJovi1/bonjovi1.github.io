@@ -26,7 +26,7 @@ Here are some really cool things about this episode. Oh and before you go ahead.
 
 #### No Dolores
 <div class="img_row">
-    <center> <img src="{{ site.baseurl }}/assets/img/w2.jpg"> </center>
+    <center> <img class="responsive" src="{{ site.baseurl }}/assets/img/w2.jpg"> </center>
 </div>
 <div class="col three caption">
     Maeve in this episode wears a beatiful red dress! Image credits: Westworld Fandom
@@ -44,7 +44,7 @@ After seeing no Maeve in the first episode, we are all so very curious to know w
 #### War World 
 
 <div class="img_row">
-    <center> <img width="600" height="333" src="{{ site.baseurl }}/assets/img/w3.webp"> </center>
+    <center> <img class="responsive" src="{{ site.baseurl }}/assets/img/w3.webp"> </center>
 </div>
 <div class="col three caption">
     Maeve is in War World. Image credits: Film Daily
@@ -61,7 +61,7 @@ And now, we see a fourth park - 'War World', which a World War II themed Nazi-oc
 Hector tells her that he's got a plan to leave Westworld. Maeve says that's impossible because there'd be guards all around. And that's when Hector blows my mind away when he tells her that they could travel through air! They show this beautiful 1940s military plane, but the pilots are all dead. The look on Maeve's face when 'Hector' calls her 'Isabella' is one of total heartbreak. One cannot feel but sympathy for her character. Maeve realises that he's forgotten all about her! He's lost his awareness and is acting according to the narrative! She's back to where she started in all this. **The whole escape plot was nothing but a narrative.** She kills herself.  
 
 <div class="img_row">
-    <center> <img width="500" height="333" src="{{ site.baseurl }}/assets/img/w7.jpg"> </center>
+    <center> <img class="responsive" src="{{ site.baseurl }}/assets/img/w7.jpg"> </center>
 </div>
 <div class="col three caption">
     'Hector' can't seem to remember Maeve. Image credits: IMDB
@@ -109,7 +109,7 @@ Meanwhile, Bernard and Ashley (who's revealed to be a host too) are back to West
 Maeve realizes that the details in this simulation world aren't complete and the code is flawed. The simulation has limited processing power and throws a statue where it freezes in mid-air. She comes up with an amazing plan and plants the map in all the hosts' pockets. The next day, everyone seems to be guilty of the theft and they start killing each other! How smart is Maeve, pulling that off. Soon, because everyone starts shooting each other, **the simulation can't take all that heavy change to the narrative and everything freezes over.** 
 
 <div class="img_row">
-    <center> <img width="500" height="333" src="{{ site.baseurl }}/assets/img/w8.jpeg"> </center>
+    <center> <img class="responsive" src="{{ site.baseurl }}/assets/img/w8.jpeg"> </center>
 </div>
 <div class="col three caption">
     All the Nazi soldiers are confounded. Maeve overloads the computer. Image credits: HN Entertainment

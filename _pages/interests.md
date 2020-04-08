@@ -5,7 +5,7 @@ title: interests
 heading: Interests
 description: What is it to have a life without a hobby or passion?
 ---
-
+Nothing is as important as passion. No matter what you do with your life, be passionate. 
 
 ### Music
 Because without Music, life would B Flat.
@@ -15,10 +15,10 @@ Apart from Computer Science, I have a huge fondess for music. Music has been, an
 I have been learning how to drum since I was in the 6th grade. That was the time when Green Day's '21st Century Breakdown' record was all over the rock radio stations. I remember listening to Trè Cool's drums on that and that was when I knew that I wanted to be a drummer! 
 
 <div class="img_row">
-    <center> <img width="500" height="300" src="{{ site.baseurl }}/assets/img/drums.JPG"> </center>
+    <center> <img class="responsive" src="{{ site.baseurl }}/assets/img/meltdown.jpg"> </center>
 </div>
 <div class="col three caption">
-    That's me, drumming at Felicity, IIIT's yearly fest. 
+    That's me, drumming at March Meltdown 2019, IIIT's Music Club's biggest event. 
 </div>
 <br/>
 
@@ -61,9 +61,9 @@ Philosophy means 'love of wisdom', and every field of study in the world is deri
 
 <br/>
 
-Yes, there's no definite answer to any of the philosophical questions, but the value of philosophy lies in its very uncertainty. Basically, people who don’t philosophise have a narrow mind, not open to speculating or thinking wider. We go through a life that's imprisoned in the prejudices derived from common sense, from the habitual beliefs of our families and nation and from convictions that we developm without the co-operation of consent of his deliberate reason. One who doesn't philosophise tends to have a narrow mind, not open to speculating or thinking wider.
+Yes, there's no definite answer to any of the philosophical questions, but the value of philosophy lies in its very uncertainty. One who doesn't philosophise tends to have a narrow mind, not open to speculating or thinking wider. We go through a life that's imprisoned in the prejudices derived from common sense and from the habitual beliefs of our families and nation. 
 
-Bertrand Russell holds that the primary value of philosophy is not in any kind of definite answer, but exists in the questions themselves. He says that, "through the greatness of the universe which philosophy contemplates, the mind also is rendered great.” We philosophise the greatness of the universe, and hence our mind is also rendered great.
+Bertrand Russell holds that the primary value of philosophy is not in any kind of definite answer, but exists in the questions themselves. He says that, "through the greatness of the universe which philosophy contemplates, the mind also is rendered great.” 
 
 
 

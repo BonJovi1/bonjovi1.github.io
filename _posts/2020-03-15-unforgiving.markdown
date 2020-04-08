@@ -19,5 +19,7 @@ Then about the album's tone - the symphony and orchestra. The heavy distortions 
 
 Reviewing a couple of tracks.  
 
+Work in Progress.
+
 
 
