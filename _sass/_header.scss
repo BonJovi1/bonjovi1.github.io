@@ -1,7 +1,8 @@
 .site-header {
     border-bottom: 1px solid $grey-color-light;
-    background-color: #fff;
-    opacity: 0.95;
+    background-color: $blue-light;
+    font-weight:900;
+    opacity: 0.90;
     position:fixed;
     left:calc((100vw - 100%)/2);
     top:0px;
