@@ -121,13 +121,5 @@ But what's truly beautiful about this scene is again, **detail!** Remember how i
 #### Engerraund Serac 
 Maeve finally awakens, finding herself in a totally different, modern world. She meets Serac, who asks her to help him kill Dolores. She refuses to do that and when she tries to kill him, Serac pushes a button and freezes her! It was a very scary moment, I mean, it's been a very long time since we've seen Maeve being controlled by someone else. 
 
-<div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/w6.jpg">
-</div>
-<div class="col three caption">
-    Serac can control Maeve! Image credits: Vanity Fair
-</div>
-<br>
-
 The stakes are real now, and Maeve is out there in the real world. Eventually, it's going to lead to showdown between Maeve and Dolores. Just the thought of them facing off sends shivers down my spine. Here's looking forward to a mind-bending and plot-twist filled season 3 of Westworld. 
 

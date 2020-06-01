@@ -6,10 +6,7 @@ description: Why I love this classic neo-noir film.
 ---
 
 <div class="img_row">
-    <center> <img src="{{ site.baseurl }}/assets/img/usual.jpg"> </center>
-</div> 
-<div class="col three caption">
-    The Usual Suspects. Image credits: Wikipedia
+    <img class="col three" src="{{ site.baseurl }}/assets/img/usual5.png">
 </div>
 <br>
 
@@ -20,11 +17,6 @@ One of my favourite movies in the world happens to be an epitome of the neo-noir
 ### Major Spoilers Ahead 
 
 #### The beginning 
-
-<div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/usual5.png">
-</div>
-<br>
 
 The introduction scene is my second favourite part of the movie. It is a beautifully crafted scene, so well directed and sets the tone for the entire movie. A mysterious figure in a long black overcoat, pees on the fire, lights up his cigarette and shoots a man dead on a ship in the middle of nowhere. He lights the ship up and escapes before it explodes. If it could get any more suspenseful! Can it be any more neo-noir than this?! The scene is perfect because it builds up the suspense right from the start: who's that man behind everything? 
 
@@ -39,20 +31,21 @@ Story is one thing, but telling it the right way is equally important. The story
 
 #### The Keyser Söze backstory 
 
+Keaton always said, "I don't believe in God, but I'm afraid of him." Well I believe in God, and the only thing that scares me is Keyser Söze.
+
 <div class="img_row">
     <img class="col three" src="{{ site.baseurl }}/assets/img/usual4.jpg">
 </div>
 <br>
-Keaton always said, "I don't believe in God, but I'm afraid of him." Well I believe in God, and the only thing that scares me is Keyser Söze.
 
-Kevin Space is God. Period. When the police starts to ask him about Keyser Söze is, his 'verbal' character goes into his backstory. It's THE BEST scene of the movie. So far, the viewers just think that Keyser Söze is fake and that the criminals are making him up, but when Spacey's character tells the police about him and how he killed his own family to become who he is today, it just sends cold shivers down the spine. As Kobayashi says, **"One Cannot Be Betrayed If One Has No People"**.
+Kevin Space is God. Period. When the police starts to ask him about Keyser Söze is, his 'verbal' character goes into his backstory. It's THE BEST scene of the movie. So far, the viewers just think that Keyser Söze is fake and that the criminals are making him up, but when Spacey's character tells the police about him and how he killed his own family to become who he is today, it just sends cold shivers down the spine. As Kobayashi says, "One Cannot Be Betrayed If One Has No People".
 
 I could watch this scene again and again. 
 
 #### The Ending
 The Plot Twist. Oh my good lord. It killed me. Absolutely destroyed me. Agent Kujan finally realizes that it was Verbal all along who fabricated the entire story. Verbal Kint is Keyser Söze! I had a lot of theories during the entire movie, but not once did I think that that cripple could actually be Keyser Söze himself! 
 
-> The greatest trick the devil ever pulled was convincing the world he doesn’t exist. 
+**The greatest trick the devil ever pulled was convincing the world he doesn’t exist.**
 
 Verbal Kint, with his name cleared of all charges, now walks back to Kobayashi's car. His limp gradually goes away and his hand returns to being normal again, completing his transition to Keyser Söze. By the time Agent Kujan realizes the truth and runs out of the building to try catch him, Keyser is gone! He looks around, but there's no sign of him. 
 
