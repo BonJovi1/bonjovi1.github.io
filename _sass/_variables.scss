@@ -64,7 +64,9 @@ $lighter-gray:      #eee !default;
 $grey-color:        #828282;
 $grey-color-light:  lighten($grey-color, 40%);
 $blue-light:        lighten($blue, 50%);
+$orange-light:      lighten($orange, 10%);
 $grey-color-dark:   darken($grey-color, 25%);
+$orange-dark:       darken($orange, 5%);
 
 $darken-1:          rgba(#000,.0625) !default;
 $darken-2:          rgba(#000,.125) !default;
@@ -73,8 +75,8 @@ $darken-4:          rgba(#000,.5) !default;
 
 $theme-color:       $blue;
 $code-color:        $dark-gray;
-$text-color:        $mid-gray;
-$background-color:  $yellow;
+$text-color:        $dark-gray;
+$background-color:  $blue;
 
 // Links
 $link-color:        $theme-color;
@@ -157,7 +159,7 @@ $footer-font-size: .75rem;
 
 /* portfolio tinkering */
 $img_spacing: 5px;
-$img-height: 275px;
+$img-height: 350px;
 $caption-font-size: 12px;
 $caption-color: #aaa;
 

@@ -8,6 +8,7 @@ Built using al-folio, a very simple and clean [Jekyll](https://jekyllrb.com/) th
 - The 'visitor count' code snippet has been added to `_layouts/page.html`.
 - To test out the website on the local server, run `bundle exec jekyll serve` 
 - To add a new social media handle, make changes to `_includes/social.html`
+- `_base.scss` contains the adjustment for the width of the text. I've made it 840px from 800px. 
 
 The following is the readme from al-folio, and explains how to use the theme features. 
 
