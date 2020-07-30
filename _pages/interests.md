@@ -10,15 +10,14 @@ Nothing is as important as passion. No matter what you do with your life, be pas
 ### Music
 Because without Music, life would B Flat.
 
-Apart from Computer Science, I have a huge fondess for music. Music has been, and always will be, a very important part of my life. It gets me through the best of times and the worst of times. But of course, when I say 'Music', I don't mean the pop and electronic computerized stuff that you hear on the radio today. What I mean is pure music, you know, with genuine instruments. I am especially passionate about ‘70s and ‘80s rock n’ roll. I love to play the drums and the electric guitar. Some of my favourite bands include Aerosmith, The Rolling Stones, U2, Led Zeppelin and Bon Jovi. Check out my blog if you want to see my thoughts and opinions on some awesome records! 
+Apart from Computer Science, I have a huge fondess for music. Music has been, and always will be, a very important part of my life. It gets me through the best of times and the worst of times. But of course, when I say 'Music', I don't mean the pop and electronic computerized stuff that you hear on the radio today. What I mean is pure music, you know, with genuine instruments. I am especially passionate about ‘70s and ‘80s rock n’ roll. I love to play the drums and the electric guitar. Some of my favourite bands include Aerosmith, The Rolling Stones, U2, Led Zeppelin and Bon Jovi. 
 
-I have been learning how to drum since I was in the 6th grade. That was the time when Green Day's '21st Century Breakdown' record was all over the rock radio stations. I remember listening to Trè Cool's awesome drumming on that record. That was when I realised that I wanted to become a drummer! 
+I have been learning how to drum since I was in the 6th grade. That was the time when Green Day's '21st Century Breakdown' record was all over the rock radio stations. I remember listening to Trè Cool's awesome drumming on that record. That was when I decided to become a drummer! 
 
+Other than classic rock n' roll, I also love country music, the one with banjos and fiddles! Shania Twain, widely regarded as the Queen of Country Pop, is one of my all time favourite artists. Apart from Shania, I also listen to The Chicks, Carrie Underwood and Taylor Swift's older albums. 
 
-Other than classic rock n' roll, I also love some country music, the one with banjos and fiddles! Shania Twain, widely regarded as the Queen of Country Pop, is one of my all time favourite artists. Apart from Shania, I also listen to the Dixie Chicks, Tim McGraw and Taylor Swift (her old stuff). 
-
-<div class="img_row">
-    <center> <img class="responsive" src="{{ site.baseurl }}/assets/img/meltdown.jpg"> </center>
+<div class="col-sm mt-3 mt-md-0">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/meltdown.jpg">
 </div>
 <div class="col three caption">
     Drumming at March Meltdown 2019, IIIT's Music Club's biggest event. 
@@ -36,11 +35,11 @@ Apart from drumming, I also strum the guitar, play the keys and slap the cajón.
 
 ### Cinema
 
-I am also a big fan of English cinema, with a  particular fondness for the neo-noir genre. Neo noir is contemporary noir but not just in terms of lighting, but also the storyline. It often blurs the line between good and bad. It means a dark movie, indicating a sense of something sinister and shadowy. 
+I am a huge fan of the neo-noir genre. Neo noir is contemporary noir but not just in terms of lighting, but also the storyline. It often blurs the line between good and bad. It means a dark movie, indicating a sense of something sinister and shadowy. 
 
-I watch a movie not because of the actor or actress, but because of its director. Some of my favourite directors include Quentin Tarantino, Christopher Nolan and David Fincher. I also love watching classic sitcoms such as Seinfeld, Cheers, Frasier and F.R.I.E.N.D.S, with Seinfeld being my absolute favourite. 'A show about nothing' as it's very commonly called, it really isn't about anything, which is exactly what makes it so very interesting to watch!
+I watch a movie not because of the actor or actress, but because of its director. Some of my favourite directors include Quentin Tarantino, Christopher Nolan and David Fincher. I also love watching classic sitcoms such as Seinfeld, Cheers and Frasier, with Seinfeld being my absolute favourite. 'A show about nothing' as it's very commonly called, it really isn't about anything, which is exactly what makes it so very interesting to watch. 
 
-I am a huge Star Wars fan, and a staunch believer in the Force, the invisible energy field that ‘binds us, surrounds us, and holds this galaxy together’. When I was a youngling, roughly about age 12, I made a trip to the Dagobah system, and there, from Master Yoda, I learnt the ways of the Force. I succesfully went on to join Luke Skywalker's Jedi Academy, but my friend (not anymore) Ben destroyed the whole thing. I haven't seen Master Luke since.
+I am a huge Star Wars fan, and a staunch believer in the Force, the invisible energy field that ‘binds us, surrounds us, and holds this galaxy together’. When I was a youngling, roughly about age 12, I made a trip to the Dagobah system, and there, from Master Yoda, I learnt the ways of the Force. I succesfully went on to join Luke Skywalker's Jedi Academy, but my friend Ben destroyed the whole thing. I haven't seen Master Luke since.
 
 <div class="img_row">
     <!-- <center> <img width="480" height="320" src="{{ site.baseurl }}/assets/img/noir.jpg"> </center> -->

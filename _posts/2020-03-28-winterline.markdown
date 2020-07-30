@@ -5,14 +5,25 @@ date:   2020-03-27 03:12:00
 description: Why the episode 2 from Westworld's season 3 is world class!  
 ---
 
-<div class="img_row">
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="col three" src="{{ site.baseurl }}/assets/img/westworld1.jpg" alt="" title="image"/>
+    </div>
+</div>
+<div class="caption">
+    Westworld, Season 3 Opening Sequence Image credits: Source of Gamers
+</div>
+<br>
+
+<!-- <div class="2020-03-28-winterline.markdown">
     <img class="col three" src="{{ site.baseurl }}/assets/img/westworld1.jpg"> 
 </div> 
 
 <div class="col three caption">
     Westworld, Season 3 Opening Sequence Image credits: Source of Gamers
 </div>
-<br>
+<br> -->
 
 Westworld is honestly my favourite TV show of all time. Created by my favourite director's brother, Jonathan Nolan and his wife, Lisa Joy, this futuristic and highly technological science fiction flick is not for 'casual viewers' due to its mind bending storylines and non linear plots. It could confuse even the best of the best. It's cinematography is spectacular, some top class acting by the industry's best (cue Evan Rachel Wood and Thandie Newton) and well, very heartfelt music score by none other than Ramin Djawadi himself! 
 
@@ -25,9 +36,14 @@ Here are some really cool things about this episode. Oh and before you go ahead.
 ### (VERY) Major Spoilers Ahead 
 
 #### No Dolores
-<div class="img_row">
-    <center> <img class="responsive" src="{{ site.baseurl }}/assets/img/w2.jpg"> </center>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="col three" src="{{ site.baseurl }}/assets/img/w2.jpg"/>
+    </div>
 </div>
+<!-- <div class="2020-03-28-winterline.markdown">
+    <img class="responsive" src="{{ site.baseurl }}/assets/img/w2.jpg">
+</div> -->
 <div class="col three caption">
     Maeve in this episode wears a beatiful red dress! Image credits: Westworld Fandom
 </div>
