@@ -7,6 +7,8 @@ description: What is it to have a life without a hobby or passion?
 ---
 Nothing is as important as passion. No matter what you do with your life, be passionate. 
 
+***
+
 ### Music
 Because without Music, life would B Flat.
 
@@ -51,7 +53,7 @@ I am a huge Star Wars fan, and a staunch believer in the Force, the invisible en
     A classic neo-noir setting in a dystopian world, from Blade Runner. Image credits: nappertime.com
 </div>
 
-<br/>
+*** 
 
 ### Philosophy
 
