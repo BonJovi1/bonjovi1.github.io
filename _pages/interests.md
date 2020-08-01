@@ -33,6 +33,8 @@ Apart from drumming, I also strum the guitar, play the keys and slap the cajón.
 5. [Over the Hills and Far Away](https://www.youtube.com/watch?v=0Az-TuYb4h0) - Led Zeppelin
 6. [Reptilia](https://www.youtube.com/watch?v=b8-tXG8KrWs) - The Strokes
 
+***
+
 ### Cinema
 
 I am a huge fan of the neo-noir genre. Neo noir is contemporary noir but not just in terms of lighting, but also the storyline. It often blurs the line between good and bad. It means a dark movie, indicating a sense of something sinister and shadowy. 
