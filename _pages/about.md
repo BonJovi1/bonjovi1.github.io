@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Abhinav</strong> Gupta
-description: Computer Vision. Deep Learning. Artificial Intelligence. 
+description: Computer Vision. Deep Learning. Artificial Intelligence.  
 
 profile:
   align: right
