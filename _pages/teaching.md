@@ -13,12 +13,16 @@ There is nothing that stregthens one's conceptual understanding more than teachi
 
 I was responsible for teaching certain areas of machine learning at the summer school organised by the Robotics Research Centre for the new lab entrants. I taught many concepts in deep learning, including transfer learning, various optimisation methods, hyperparameter tuning and regularisation. I set a couple of interesting assignments and taught the students how to train neural networks efficiently and effectively. 
 
+***
+
 ### Design and Analysis of Software Systems
 #### Spring 2020
 
 I had the opportunity to be a teaching assistant for this course under [Prof. Ramesh Loganathan](https://www.linkedin.com/in/rameshl/?originalSubdomain=in). I was responsible for setting and evaluating assignments and teaching how to build web applications, coding in Python and JavaScript and advising four project teams.   
 
 This is the most famous software engineering course offered at IIIT, Hyderabad. Students form teams and have to work for real life clients as part of their projects. Students work for these clients for 4 months, earning some valuable industry experience and exposure. 
+
+***
 
 ### Digital Logic and Processors
 #### Monsoon 2019
