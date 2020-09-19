@@ -41,7 +41,7 @@ Apart from drumming, I also strum the guitar, play the keys and slap the cajón.
 
 I am a huge fan of the neo-noir genre. Neo noir is contemporary noir but not just in terms of lighting, but also the storyline. It often blurs the line between good and bad. It means a dark movie, indicating a sense of something sinister and shadowy. 
 
-I watch a movie not because of the actor or actress, but because of its director. Some of my favourite directors include Quentin Tarantino, Christopher Nolan and David Fincher. I also love watching classic sitcoms such as Seinfeld, Cheers and Frasier, with Seinfeld being my absolute favourite. 'A show about nothing' as it's very commonly called, it really isn't about anything, which is exactly what makes it so very interesting to watch. 
+I watch a movie not because of the actor or actress, but because of its director. Some of my favourite directors include Quentin Tarantino, Christopher Nolan and David Fincher. I also love watching classic sitcoms such as Seinfeld, Cheers and Frasier, with Seinfeld being my absolute favourite. 'A show about nothing' as it's very commonly called, it really isn't about anything, which is exactly what makes it so very fascinating to watch. 
 
 I am a huge Star Wars fan, and a staunch believer in the Force, the invisible energy field that ‘binds us, surrounds us, and holds this galaxy together’. When I was a youngling, roughly about age 12, I made a trip to the Dagobah system, and there, from Master Yoda, I learnt the ways of the Force. I succesfully went on to join Luke Skywalker's Jedi Academy, but my friend Ben destroyed the whole thing. I haven't seen Master Luke since.
 
@@ -57,9 +57,9 @@ I am a huge Star Wars fan, and a staunch believer in the Force, the invisible en
 
 ### Philosophy
 
-I am also very interested in Philosophy and I often like to muse about life and death. ‘The study of knowledge’ as it truly is, I love to contemplate on classic philosophical problems such as, ‘who are we’ and ‘is there really any purpose to our lives’ etc. Most of my philosophies are inspired by David Hume, one of the greatest thinkers of the 17th century. 
+I am also very interested in Philosophy and I often like to muse about life and death. ‘The study of knowledge’ as it truly is, I love to contemplate on classic philosophical problems such as, ‘who are we’ and ‘is there really any purpose to our lives’ etc. Most of my philosophies are inspired by David Hume, one of the greatest thinkers of the 17th century, and by Prof. Madhava, my advisor. 
 
-Philosophy means 'love of wisdom', and every field of study in the world is derived from philosophy itself. That's precisely why PhD stands for 'Doctor of Philosophy'. Of course, the truly philosophical questions such as 'is there a God?' or 'are we all meaningless matter?' don't really have an answer, and we probably would never find the correct answer to thse questions. But then what's the point of studying philosophy? It's because it allows one to think and attempt to comprehend life. The pursuit of philosophy is not merely to suggest answers to these questions but to make us sensitive to their importance and to keep us conscious of a speculative interest in the universe, which we might otherwise forget. 
+Philosophy means 'love of wisdom', and every field of study in the world is derived from philosophy itself. That's precisely why PhD stands for 'Doctor of Philosophy'. Of course, questions such as 'is there a God?' or 'are we all meaningless matter?' don't really have an answer, and we probably would never find the correct answer to these. So then what's the point of studying philosophy? It's because it allows one to think and attempt to comprehend life. The pursuit of philosophy is not merely to suggest answers to these questions but to make us sensitive to their importance and to keep us conscious of a speculative interest in the universe, which we might otherwise forget. 
 
 <!-- <div class="img_row">
     <img class="col three" src="{{ site.baseurl }}/assets/img/roads.jpeg">
