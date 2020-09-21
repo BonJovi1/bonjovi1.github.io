@@ -28,8 +28,8 @@ Other than classic rock n' roll, I also love country music, the one with banjos 
 
 Apart from drumming, I also strum the guitar, play the keys and slap the cajón. Here are some of my all time favourite songs: 
 
-1. [Crazy](https://www.youtube.com/watch?v=NMNgbISmF4I) - Aerosmith
-2. [Patience](https://www.youtube.com/watch?v=ErvgV4P6Fzc) - Guns N' Roses
+1. [Patience](https://www.youtube.com/watch?v=ErvgV4P6Fzc) - Guns N' Roses
+2. [Crazy](https://www.youtube.com/watch?v=NMNgbISmF4I) - Aerosmith
 3. [Don't Look Back In Anger](https://www.youtube.com/watch?v=r8OipmKFDeM) - Oasis
 4. [You Give Love A Bad Name](https://www.youtube.com/watch?v=KrZHPOeOxQQ) - Bon Jovi 
 5. [Over the Hills and Far Away](https://www.youtube.com/watch?v=0Az-TuYb4h0) - Led Zeppelin

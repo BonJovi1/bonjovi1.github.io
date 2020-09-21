@@ -6,7 +6,7 @@ email: abhinav.g@students.iiit.ac.in
 description: > # this means to ignore newlines until "url:"
   Undergraduate Researcher at IIIT, Hyderabad. 
 footer_text: >
-  May the Force be with you. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>. Thanks to <a href="https://github.com/alshedivat/al-folio">al-folio</a> for the awesome theme.
+  May the Force be with you. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>. Thanks to <a href="https://github.com/alshedivat/al-folio">al-folio</a> for the nice theme.
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
