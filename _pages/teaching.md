@@ -18,15 +18,17 @@ I was responsible for teaching certain areas of machine learning at the summer s
 ### Design and Analysis of Software Systems
 #### Spring 2020
 
-I had the opportunity to be a teaching assistant for this course under [Prof. Ramesh Loganathan](https://www.linkedin.com/in/rameshl/?originalSubdomain=in). I was responsible for setting and evaluating assignments and teaching how to build web applications, coding in Python and JavaScript and advising four project teams.   
-
 This is the most famous software engineering course offered at IIIT, Hyderabad. Students form teams and have to work for real life clients as part of their projects. Students work for these clients for 4 months, earning some valuable industry experience and exposure. 
+
+I had the opportunity to be a teaching assistant for this course under [Prof. Ramesh Loganathan](https://www.linkedin.com/in/rameshl/?originalSubdomain=in). I was responsible for setting and evaluating assignments and teaching how to build web applications, coding in Python and JavaScript and advising four project teams.   
 
 ***
 
 ### Digital Logic and Processors
 #### Monsoon 2019
 
-Digital Logic and Processors is a foundational computer systems course offered at IIIT, Hyderabad. I was responsible for creating assignments and teaching the fundamentals of digital logic and the architecture a simple 8-bit processor, under [Prof. Aftab Hussain](https://scholar.google.com/citations?user=iDfsQv0AAAAJ&hl=en). The latter was the most awesome part, as it involved building a simple processor from scratch! 
+To truly be a computer 'engineer', it is essential to have a fundamental understanding of the design and architecture of a computer and how it's built from the inside. Digital Logic and Processors is a foundational computer systems course offered at IIIT, Hyderabad. 
 
-To truly be a computer 'engineer', it is essential to have a fundamental understanding of the design and architecture of a computer and how it's built from the inside.
+I was responsible for creating assignments and teaching the fundamentals of digital logic and the architecture a simple 8-bit processor, under [Prof. Aftab Hussain](https://scholar.google.com/citations?user=iDfsQv0AAAAJ&hl=en). The latter was the most awesome part, as it involved building a simple processor from scratch! 
+
+
