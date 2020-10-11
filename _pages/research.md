@@ -6,9 +6,9 @@ heading: Research
 description: "Research is what I'm doing when I don't know what I'm doing"
 ---
 
-I have been associated with [RRC]((https://robotics.iiit.ac.in/)) for over a year, working on several projects with [Prof. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en) that involve a wondrous blend of vision and robotics. Currently, I am working on deep optical flow estimation for unsupervised and scene agnostic image-based visual servoing. Our team aims to propose a novel model predictive visual servoing framework which processes visual features, trains on-the-fly and generates optimal control to successfully servo the environment. I've had the opportunity to work with some incredible people at RRC, such as [Dr. Harit Pandya](https://scholar.google.com/citations?user=bOWP5gQAAAAJ&hl=en) and [Gourav Kumar](https://scholar.google.co.in/citations?user=zyYNatcAAAAJ&hl=en). 
+I have been associated with [RRC]((https://robotics.iiit.ac.in/)) for over a year, working on several projects with [Prof. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en) that involve a wondrous blend of vision and robotics. Currently, I am working on a learning-based model predictive framework for unsupervised image-based visual servoing. Our team aims to propose a novel visual servoing framework which processes visual features, trains on-the-fly and generates optimal control to successfully servo the environment. I've had the opportunity to work with some incredible people at RRC, such as [Dr. Harit Pandya](https://scholar.google.com/citations?user=bOWP5gQAAAAJ&hl=en) and [Gourav Kumar](https://scholar.google.co.in/citations?user=zyYNatcAAAAJ&hl=en). 
 
-Currently, I am also pursuing an independent project with [Prof. Avinash Sharma](https://scholar.google.com/citations?user=4ladtC0AAAAJ&hl=en). I am working on the generation of asynchronous event trajectories using photometric feature tracking and capturing high-speed motions from event cameras. 
+Currently, I am also pursuing an independent project with [Prof. Avinash Sharma](https://scholar.google.com/citations?user=4ladtC0AAAAJ&hl=en) in human motion synthesis. I am working on the generation of asynchronous event trajectories using photometric feature tracking in order to capture high-speed motions from event cameras. 
 
 <div>
 	<center>

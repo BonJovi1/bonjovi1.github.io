@@ -7,7 +7,7 @@
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
         
-        <a href="{{ site.baseurl | prepend: site.url }}"> <strong>{{ name | first }}</strong> {{ name | last }} </a>
+        <a color=$red-1 href="{{ site.baseurl | prepend: site.url }}"> {{ name | first }} {{ name | last }} </a>
     </span>
     <!-- </div> -->
     {% endif %}
