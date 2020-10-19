@@ -11,7 +11,7 @@ profile:
     <p> &nbsp B3-311, Robotics Lab</p>
     <p> &nbspIIIT, Hyderabad 500032</p>
 
-news: false
+news: true
 social: true
 ---
 

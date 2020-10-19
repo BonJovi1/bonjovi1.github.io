@@ -4,4 +4,4 @@ date: 2019-05-03
 inline: true
 ---
 
-Joined the Robotics Research Center, advised by Prof. Madhava Krishna
+Started my honours research at the Robotics Research Center.
