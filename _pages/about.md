@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p> &nbsp B3-311, Robotics Lab</p>
-    <p> &nbspIIIT, Hyderabad 500032</p>
+    <p> &nbsp; B3-311, Robotics Lab </p>
+    <p> &nbsp;IIIT, Hyderabad 500032</p>
 
 news: true
 social: true

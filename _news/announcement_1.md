@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-05-03
+date: 2019-08-02
 inline: true
 ---
 
-Started my honours research at the Robotics Research Center.
+Started honours research at the Robotics Research Center.
