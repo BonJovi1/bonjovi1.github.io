@@ -15,7 +15,7 @@ news: true
 social: true
 ---
 
-Hi there! I'm a senior year undergraduate at the International Institute of Information Technology [(IIIT), Hyderabad](https://www.iiit.ac.in/), pursuing my bachelors in computer science. I am an honours researcher at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/) advised by [Prof. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en), where I like to work at the intersection of computer vision, deep learning and robotics, with a focus on vision-based robot navigation.  
+I'm a senior year at the International Institute of Information Technology [(IIIT), Hyderabad](https://www.iiit.ac.in/), pursuing my bachelors in computer science. I am an undergraduate researcher at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/) advised by [Prof. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en), where I like to work at the intersection of computer vision, deep learning and robotics, with a focus on vision-based robot navigation.  
 
 I have also had the opportunity to work on research projects under [Prof. PJ Narayanan](https://scholar.google.com/citations?user=3HKjt_IAAAAJ&hl=en) and [Prof. Avinash Sharma](https://scholar.google.com/citations?user=4ladtC0AAAAJ&hl=en) at the [Centre for Visual Information Technology (CVIT)](https://cvit.iiit.ac.in/). During the summer of 2020, I interned at [Siemens Corporate Research](https://new.siemens.com/in/en.html) in Bangalore, India, at the visual perception lab. Do check out the [research](https://bonjovi1.github.io/research/) tab to know more about my work. 
 
