@@ -8,6 +8,13 @@ description: "In learning you will teach, and in teaching you will learn"
 
 There is nothing that stregthens one's conceptual understanding more than teaching it to someone. I have always loved to teach and I've had the opportunity to be a Teaching Assistant for many courses at IIIT, Hyderabad. 
 
+### Robotics: Planning and Navigation
+#### Spring 2021
+
+I am currently TAing this new robotics course at IIIT Hyderabad. The course aims to introduce state of the art algorithms in the broad area of robot navigation. These algorithms span across AI methods, Kinematic and Dynamics based approaches as well as control theoretic formulations, thereby giving the student a ringside view of the main algorithms in this area. These approaches are applicable to both ground robots and aerial vehicles.
+
+***
+
 ### Deep Learning and AI
 #### RRC Summer School, 2020
 

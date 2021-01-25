@@ -1,6 +1,8 @@
 <div class="news">
   <h2>news</h2>
   {% if site.news  %}
+    <!-- <img src="/assets/img/RRC.png">
+    <img src="/assets/img/IIIT.png"> -->
     <table>
     {% assign news = site.news | reverse %}
     {% for item in news limit: site.news_limit %}
