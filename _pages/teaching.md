@@ -6,12 +6,20 @@ heading: Teaching
 description: "In learning you will teach, and in teaching you will learn"
 ---
 
-There is nothing that stregthens one's conceptual understanding more than teaching it to someone. I have always loved to teach and I've had the opportunity to be a Teaching Assistant for many courses at IIIT, Hyderabad. 
+There is nothing that stregthens one's conceptual understanding more than teaching it to someone. I have always loved to teach and I've had the opportunity to be a Teaching Assistant for many courses at IIIT Hyderabad. 
+
+### Introduction to Perception and Robotics
+#### Fall 2021
+
+I am currently TAing this amazing introductory robotics course at Georgia Tech. This course covers fundamental problems and leading solutions to autonomous robot behavior –
+how can a robot perceive the world, and how can it use that information to operate effectively. Students work on various assignments where they have to deploy their algorithms in the real-world on a Cozmo, which makes it very exciting and frustrating at the same time! 
+
+***
 
 ### Robotics: Planning and Navigation
 #### Spring 2021
 
-I am currently TAing this new robotics course at IIIT Hyderabad. The course aims to introduce state of the art algorithms in the broad area of robot navigation. These algorithms span across AI methods, Kinematic and Dynamics based approaches as well as control theoretic formulations, thereby giving the student a ringside view of the main algorithms in this area. These approaches are applicable to both ground robots and aerial vehicles.
+This was the newest addition to the set of robotics courses at IIIT Hyderabad. The course aims to introduce state of the art algorithms in the broad area of robot navigation. These algorithms span across AI methods, Kinematic and Dynamics based approaches as well as control theoretic formulations, thereby giving the student a ringside view of the main algorithms in this area. These approaches are applicable to both ground robots and aerial vehicles.
 
 ***
 
