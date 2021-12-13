@@ -5,7 +5,7 @@ date: 2020-05-11
 inline: true
 ---
 
-Excited to intern at Siemens Corporate Research in Bengaluru! 
+Excited to intern at Siemens Technology in Bangalore!
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 

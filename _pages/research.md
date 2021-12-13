@@ -22,6 +22,22 @@ I work closely with [Dr. Harit Pandya](https://scholar.google.com/citations?user
     Quadcopters and drones at the Robotics Research Center, IIIT Hyderabad. 
 </div>
 
+<div class="row">
+    <center>
+        <left> <img width="298" src="{{ site.baseurl }}/assets/img/iiit.jpeg"> </left>
+        <right> <img width="290" src="{{ site.baseurl }}/assets/img/iiit_roads.jpeg"> </right>
+        <!-- <img class="col three" width="200" src="{{ site.baseurl }}/assets/img/iiit.jpeg"/> -->
+
+    </center>
+</div>
+<!-- <div class="2020-03-28-winterline.markdown">
+    <img class="responsive" src="{{ site.baseurl }}/assets/img/w2.jpg">
+</div> -->
+<div class="col three caption">
+    Beautiful campus of IIIT Hyderabad! Really miss this place! 
+</div>
+<br>
+
 ***
 
 ### Past Experience
