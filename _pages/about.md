@@ -2,24 +2,24 @@
 layout: about
 permalink: /
 title: <strong>Abhinav</strong> Gupta
-description: Master's in Computer Science at Georgia Tech
+description: CS Major at Georgia Tech
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <!-- <p> &nbsp; B3-311, Robotics Lab </p>
-    <p> &nbsp;IIIT, Hyderabad 500032</p> -->
+    <!-- <p> &nbsp; 801 Atlantic Dr NW</p>
+    <p> &nbsp; Atlanta, GA 30332</p> -->
 
 news: true
 social: true
 ---
 
-Hi there! I'm a Master's student at the [Georgia Institute of Technology](https://www.gatech.edu/), majoring in Computer Science with a specialization in Machine Learning. I work as a Graduate Teaching Assistant for [CS-3630](https://harishravichandarblog.files.wordpress.com/2021/09/cs3630_fall2021_syllabus-v1-aug_22.pdf): Introduction to Perception and Robotics at the [School of Interactive Computing](https://www.cc.gatech.edu/school-interactive-computing). I love writing code to build user-friendly software and training deep neural networks to accomplish wondrous ML tasks!  
+Hi there! I'm a Master's student at the [Georgia Institute of Technology](https://www.gatech.edu/), majoring in Computer Science with a specialization in Machine Learning. I love writing code to build user-friendly software and training deep neural networks to accomplish wondrous ML tasks!  
 
-Previously, I completed my Bachelor's in Computer Science from [IIIT Hyderabad](https://www.iiit.ac.in/). I was lucky to be advised by the amazing [Prof. K. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en) at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), where I worked on vision-guided robot navigation tasks. I worked as a software development intern at [Siemens Corporate Research](https://new.siemens.com/in/en.html) in Bangalore, India during the summer of 2020. I was also fortunate to collaborate with [Prof. P.J. Narayanan](https://scholar.google.com/citations?user=3HKjt_IAAAAJ&hl=en) and [Prof. Avinash Sharma](https://scholar.google.com/citations?user=4ladtC0AAAAJ&hl=en) during my Bachelor's. 
+Previously, I completed my Bachelor's in Computer Science from [IIIT Hyderabad](https://www.iiit.ac.in/). I was lucky to be advised by the amazing [Prof. K. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en) at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), where I worked on vision-guided robot navigation tasks. I worked as a software intern at [Siemens](https://new.siemens.com/in/en.html) in Bangalore, India during the summer of 2020. I was also fortunate to collaborate with [Prof. P.J. Narayanan](https://scholar.google.com/citations?user=3HKjt_IAAAAJ&hl=en) and [Prof. Avinash Sharma](https://scholar.google.com/citations?user=4ladtC0AAAAJ&hl=en) during my Bachelor's. 
 
-I wish to use my knowledge of software development and machine learning to build efficient software programs that would create a meaningful impact on people's everyday lives, whilst further pushing the boundaries of human knowledge. I'm actively looking for SDE/ML internship opportunities for Summer 2022.
+I wish to use my knowledge of software development and machine learning to build efficient software programs that would create a meaningful impact on people's everyday lives, whilst further pushing the boundaries of human knowledge. 
 <br>
 
 <!-- <div class="row">
