@@ -9,7 +9,7 @@ description: "In learning you will teach, and in teaching you will learn"
 There is nothing that stregthens one's conceptual understanding more than teaching it to someone. I have always loved to teach and I've had the opportunity to be a Teaching Assistant for many courses at IIIT Hyderabad. 
 
 ### Introduction to Perception and Robotics
-#### Fall 2021
+#### Fall 2021, Spring 2022
 
 I am currently TAing this amazing introductory robotics course at Georgia Tech. This course covers fundamental problems and leading solutions to autonomous robot behavior –
 how can a robot perceive the world, and how can it use that information to operate effectively. Students work on various assignments where they have to deploy their algorithms in the real-world on a Cozmo, which makes it very exciting and frustrating at the same time! 

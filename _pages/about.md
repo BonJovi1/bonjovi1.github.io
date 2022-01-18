@@ -8,18 +8,19 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
+    Hii I'm Abhinav, nice to meet you!
     <!-- <p> &nbsp; 801 Atlantic Dr NW</p>
-    <p> &nbsp; Atlanta, GA 30332</p> -->
+    <p> &nbsp;   Atlanta, GA 30332</p> -->
 
 news: true
 social: true
 ---
 
-Hi there! I'm a first year Master's student at the [Georgia Institute of Technology](https://www.gatech.edu/), majoring in Computer Science with a specialization in Machine Learning. I love writing code to build user-friendly and impactful software and also enjoy training deep neural networks to accomplish wondrous ML tasks!  
+Hi there! I'm a first year Master's student at the [**Georgia** Institute of **Tech**nology](https://www.gatech.edu/), majoring in Computer Science with a specialization in Machine Learning. I love writing code to build user-friendly and impactful software and also enjoy training deep neural networks to accomplish wondrous tasks in robotics!  
 
-Previously, I completed my Bachelor's in Computer Science and Engineering from [IIIT Hyderabad](https://www.iiit.ac.in/). I was lucky to be advised by the amazing [Prof. K. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en) at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), where I worked on vision-guided robot navigation tasks. I worked as a software intern at [Siemens](https://new.siemens.com/in/en.html) in Bangalore, India during the summer of 2020. I was also fortunate to collaborate with [Prof. P.J. Narayanan](https://scholar.google.com/citations?user=3HKjt_IAAAAJ&hl=en) and [Prof. Avinash Sharma](https://scholar.google.com/citations?user=4ladtC0AAAAJ&hl=en) during my Bachelor's. 
+Previously, I completed my Bachelor's in Computer Science and Engineering from [**IIIT Hyderabad**](https://www.iiit.ac.in/). I was lucky to be advised by the amazing [Dr. K. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en) at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), where I worked on vision-guided robot navigation. I interned at [Siemens](https://new.siemens.com/in/en.html) in Bangalore, India during the summer of 2020. I was also fortunate to collaborate with [Dr. P.J. Narayanan](https://scholar.google.com/citations?user=3HKjt_IAAAAJ&hl=en) and [Dr. Avinash Sharma](https://scholar.google.com/citations?user=4ladtC0AAAAJ&hl=en) during my junior and senior years, where I worked on neuromorphic vision algorithms and social applications of computer vision. 
 
-I wish to use my knowledge of software development and machine learning to build efficient software programs that would create a meaningful impact on people's everyday lives, whilst further pushing the boundaries of human knowledge.
+I wish to use my knowledge of software development, machine learning and robotics to build efficient software programs that would create a meaningful impact on people's everyday lives, whilst further pushing the boundaries of human knowledge.
 <br>
 
 <!-- <div class="row">
@@ -38,7 +39,7 @@ I wish to use my knowledge of software development and machine learning to build
 	<center>
     <img width="220" src="{{ site.baseurl }}/assets/img/gt.png"> &ensp; &ensp;
     <img width="240" src="{{ site.baseurl }}/assets/img/IIIT.png"> &nbsp; &nbsp;  
-    <img width="200" src="{{ site.baseurl }}/assets/img/siemens.jpeg">
+    <!-- <img width="200" src="{{ site.baseurl }}/assets/img/siemens.jpeg"> -->
 	</center>
 </div>
 

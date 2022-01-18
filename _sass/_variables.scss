@@ -2,7 +2,7 @@
 /******************************************************************************/
 
 // Typography
-$base-font-size: 16px !default;
+$base-font-size: 17px !default;
 $small-font-size:  0.875rem !default;
 $bold-font-weight: bold !default;
 $font-family: Helvetica, Arial, sans-serif !default;
@@ -39,6 +39,7 @@ $viewport-large: 64em;
 // Colors
 $red:               #FF3636 !default;
 $red-1:             #f95020 !default;
+$brown:             #b5410b !default;
 $orange:            #F29105 !default;
 $orange-1:          #ffcc22 !default;
 $blue:              #2698BA !default;
@@ -54,6 +55,13 @@ $purple:            #B509AC !default;
 $pink:              #f92080 !default;
 $light-pink:        #ffdddd !default;
 $yellow:            #efcc00 !default;
+$dark-pink:         #d90f4f !default;
+
+
+$buzz-gold:         #EAAA00 !default;
+$bright-purple:     #7800FF !default;
+$bright-canopy:     #00EC9C !default;
+$bright-horizon:    #FF640F !default;
 
 $white:             #fff !default;
 $dark-gray:         #333 !default;
@@ -73,7 +81,7 @@ $darken-2:          rgba(#000,.125) !default;
 $darken-3:          rgba(#000,.25) !default;
 $darken-4:          rgba(#000,.5) !default;
 
-$theme-color:       $red-1;
+$theme-color:       $red;
 $code-color:        $dark-gray;
 $text-color:        $dark-gray;
 $background-color:  $blue;
