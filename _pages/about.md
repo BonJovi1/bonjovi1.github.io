@@ -2,13 +2,13 @@
 layout: about
 permalink: /
 title: <strong>Abhinav</strong> Gupta
-description: CS Major at Georgia Tech
+description: CS Grad Student at Georgia Tech
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    Hii I'm Abhinav, nice to meet you!
+    Hii I'm Abhinav, nice to e-meet you!
     <!-- <p> &nbsp; 801 Atlantic Dr NW</p>
     <p> &nbsp;   Atlanta, GA 30332</p> -->
 
@@ -16,12 +16,16 @@ news: true
 social: true
 ---
 
-Hi there! I'm a first year Master's student at the [**Georgia** Institute of **Tech**nology](https://www.gatech.edu/), majoring in Computer Science with a specialization in Machine Learning. I love writing code to build user-friendly and impactful software and also enjoy training deep neural networks to accomplish wondrous tasks in robotics!  
+Hi there! I'm a second year Master's student at the [**Georgia** Institute of **Tech**nology](https://www.gatech.edu/), majoring in Computer Science with a specialization in Machine Learning. I love writing code to build user-friendly and impactful software and also enjoy training deep neural networks to accomplish wondrous tasks in robotics!
 
-Previously, I completed my Bachelor's in Computer Science and Engineering from [**IIIT Hyderabad**](https://www.iiit.ac.in/). I was lucky to be advised by the amazing [Dr. K. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en) at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), where I worked on vision-guided robot navigation. I interned at [Siemens](https://new.siemens.com/in/en.html) in Bangalore, India during the summer of 2020. I was also fortunate to collaborate with [Dr. P.J. Narayanan](https://scholar.google.com/citations?user=3HKjt_IAAAAJ&hl=en) and [Dr. Avinash Sharma](https://scholar.google.com/citations?user=4ladtC0AAAAJ&hl=en) during my junior and senior years, where I worked on neuromorphic vision algorithms and social applications of computer vision. 
+I'm currently working at [Amazon Robotics](https://amazon.jobs/en/teams/amazon-robotics), where I'm building new testing tools and frameworks to test out robotic movement software in simulation. This past summer, I worked at [Meta (Facebook)](https://www.meta.com/), where I helped build new internal debugging tools for the Meta Accounts Center. 
+
+Previously, I completed my Bachelor's in Computer Science and Engineering from [**IIIT Hyderabad**](https://www.iiit.ac.in/). I was lucky to be advised by the amazing [Dr. K. Madhava Krishna](https://scholar.google.com/citations?user=QDuPGHwAAAAJ&hl=en) at the [Robotics Research Center (RRC)](https://robotics.iiit.ac.in/), where I worked on vision-guided robot navigation. I interned at [Siemens](https://new.siemens.com/in/en.html) in Bangalore, India during the summer of 2020. 
 
 I wish to use my knowledge of software development, machine learning and robotics to build efficient software programs that would create a meaningful impact on people's everyday lives, whilst further pushing the boundaries of human knowledge.
 <br>
+
+<b> I'm looking for full time opportunities starting May 2023! </b>
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,11 +40,19 @@ I wish to use my knowledge of software development, machine learning and robotic
 </div> -->
 
 <div>
-	<center>
+    <center>
+    <img width="250" src="{{ site.baseurl }}/assets/img/ar.png"> &nbsp; &nbsp;  
+    <img width="220" src="{{ site.baseurl }}/assets/img/meta.png"> &ensp; &ensp;
+    <!-- <img width="200" src="{{ site.baseurl }}/assets/img/siemens.jpeg"> -->
+    </center>
+</div>
+
+<div>
+    <center>
     <img width="220" src="{{ site.baseurl }}/assets/img/gt.png"> &ensp; &ensp;
     <img width="240" src="{{ site.baseurl }}/assets/img/IIIT.png"> &nbsp; &nbsp;  
     <!-- <img width="200" src="{{ site.baseurl }}/assets/img/siemens.jpeg"> -->
-	</center>
+    </center>
 </div>
 
 <!-- <div>
